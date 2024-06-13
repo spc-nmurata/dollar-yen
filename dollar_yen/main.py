@@ -6,6 +6,7 @@ def fx_rates(ticker):
 
 def now():
     print(fx_rates("USDJPY=X"))
+    
 def exchange(num):
     return num * fx_rates("USDJPY=X")
 
