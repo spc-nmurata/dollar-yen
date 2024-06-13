@@ -1,7 +1,7 @@
 # dollar-yen
 Convert dollars to yen.
 # how to install dollar-yen
-pip install dollar-yen
+    pip install dollar-yen
 
 # how to run dollar-yen
     $ dollar_yen
