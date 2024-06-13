@@ -4,16 +4,16 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="doller-yen",  # パッケージ名
+    name="dollar-yen",  # パッケージ名
     version="0.0.1",
     author="naoyuki murata",
     author_email="nmurata@sciencepark.co.jp",
     description="Convert dollars to yen.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/spc-nmurata/doller_yen",
+    url="https://github.com/spc-nmurata/dollar-yen",
     project_urls={
-        "Bug Tracker": "https://github.com/spc-nmurata/doller_yen",
+        "Bug Tracker": "https://github.com/spc-nmurata/dollar-yen",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -28,7 +28,7 @@ setuptools.setup(
     ],
     entry_points={
         'console_scripts': [
-            'doller_yen = doller_yen.main:main'  # main.pyのmain関数をエントリーポイントに
+            'dollar_yen = dollar_yen.main:main'  # main.pyのmain関数をエントリーポイントに
         ]
     },
 )
