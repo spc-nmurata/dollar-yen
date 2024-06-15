@@ -7,7 +7,7 @@ Please give me any comments and opinions.
     pip install dollar-yen
 
 # how to run dollar-yen
-Pass through the path before executing.
+Pass through the path before executing
     $ dollar_yen
 or
 
