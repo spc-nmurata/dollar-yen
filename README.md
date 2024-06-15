@@ -8,6 +8,8 @@ Please give me any comments and opinions.
 
 # how to run dollar-yen
 Pass through the path before executing
+
+
     $ dollar_yen
 or
 
