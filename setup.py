@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="dollar-yen",  # パッケージ名
-    version="0.0.1",
+    version="0.0.2",
     author="naoyuki murata",
     author_email="nmurata@sciencepark.co.jp",
     description="Convert dollars to yen.",
