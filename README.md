@@ -1,6 +1,7 @@
 # dollar-yen
 Convert dollars to yen.
 This project (GitHub and PYPI) was created for the first time. 
+[![Downloads](https://static.pepy.tech/badge/dollar-yen/month)](https://pepy.tech/project/dollar-yen)
 
 Please give me any comments and opinions.
 # how to install dollar-yen
